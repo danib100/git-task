@@ -6,5 +6,5 @@ print(name)
 age=input("Enter your age: ")
 #Store the user's age in the "age" variable
 print(age)
-#This code will output "Hello, World!"
-print("Hello, World!")
+#This code will output "Git is awesome!"
+print("Git is awesome!")
